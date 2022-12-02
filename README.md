@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cayliab03
 - 👀 I’m interested in website, game, app, and computer development 
-- 🌱 I’m currently learning Python, C/C++, R, HTML, and MATLAB
+- 🌱 I’m currently learning Python, C/C++, R, MATLAB, HTML, Verilog, and VHDL
+
 - 💞️ I’m looking to collaborate on any project that comes my way!
 - 📫 How to reach me? Through Linkedin: https://www.linkedin.com/in/caylia-bonnick/
 
