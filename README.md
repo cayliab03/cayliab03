@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cayliab03
-- 👀 I’m interested in website, app, computer, and hardware development 
-- 🌱 I’m currently learning HTML, JavaScript, CSS, Python, C/C++, MATLAB, R, Verilog, and VHDL
+- 👀 I’m interested in hardware development, digitization, and optimizing the manufacturing process
+- 🌱 I’m currently on Co-Op at Procter and Gamble
 
 - 💞️ I’m looking to collaborate in hackathons and on any project that comes my way!
 - 📫 How to reach me? Through My Portfolio Website: https://cayliab03.github.io/
